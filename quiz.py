@@ -131,3 +131,135 @@ if resposta == "b":
     print("resposta correta\n")
 else:
     print("resposta incorreta\n")
+
+print("11) Qual estado NÃO faz parte do Nordeste?\n")
+print("a) Maranhão")
+print("b) Goiás")
+print("c) Piauí")
+print("d) Rio Grande do Norte")
+resposta = input("Resposta: ")
+if resposta == "b":
+    pontos = pontos + 1
+    print("resposta correta\n")
+else:
+    print("resposta incorreta\n")
+
+
+print("12) Qual parque fica na Chapada Diamantina?\n")
+print("a) Parque Nacional da Serra da Capivara")
+print("b) Parque Nacional de Jericoacoara")
+print("c) Parque Nacional da Chapada Diamantina")
+print("d) nenhuma das alternativas")
+resposta = input("Resposta: ")
+if resposta == "c":
+    pontos = pontos + 1
+    print("resposta correta\n")
+else:
+    print("resposta incorreta\n")
+
+
+print("13) Qual é o maior estado da Região Norte?\n")
+print("a) Amazonas")
+print("b) Acre")
+print("c) Roraima")
+print("d) Pará")
+resposta = input("Resposta: ")
+if resposta == "a":
+    pontos = pontos + 1
+    print("resposta correta\n")
+else:
+    print("resposta incorreta\n")
+
+
+print("14) Qual animal é símbolo da fauna amazônica?\n")
+print("a) Onça-pintada")
+print("b) Lobo-guará")
+print("c) Tamanduá-bandeira")
+print("d) Arara-azul")
+resposta = input("Resposta: ")
+if resposta == "a":
+    pontos = pontos + 1
+    print("resposta correta\n")
+else:
+    print("resposta incorreta\n")
+
+
+print("15) Qual é o principal bioma da Região Norte?\n")
+print("a) Cerrado")
+print("b) Caatinga")
+print("c) Amazônia")
+print("d) Pantanal")
+resposta = input("Resposta: ")
+if resposta == "c":
+    pontos = pontos + 1
+    print("resposta correta\n")
+else:
+    print("resposta incorreta\n")
+
+
+print("16) Onde fica o Encontro das Águas?\n")
+print("a) Belém")
+print("b) Manaus")
+print("c) Porto Velho")
+print("d) Boa Vista")
+resposta = input("Resposta: ")
+if resposta == "b":
+    pontos = pontos + 1
+    print("resposta correta\n")
+else:
+    print("resposta incorreta\n")
+
+
+print("17) Qual é o estado mais populoso do Sudeste?\n")
+print("a) Minas Gerais")
+print("b) São Paulo")
+print("c) Rio de Janeiro")
+print("d) Espírito Santo")
+resposta = input("Resposta: ")
+if resposta == "b":
+    pontos = pontos + 1
+    print("resposta correta\n")
+else:
+    print("resposta incorreta\n")
+
+
+print("18) Qual cidade é chamada de 'Cidade Maravilhosa'?\n")
+print("a) São Paulo")
+print("b) Belo Horizonte")
+print("c) Rio de Janeiro")
+print("d) Vitória")
+resposta = input("Resposta: ")
+if resposta == "c":
+    pontos = pontos + 1
+    print("resposta correta\n")
+else:
+    print("resposta incorreta\n")
+
+
+print("19) Qual é a capital do Espírito Santo?\n")
+print("a) Vitória")
+print("b) Belo Horizonte")
+print("c) Niterói")
+print("d) Campinas")
+resposta = input("Resposta: ")
+if resposta == "a":
+    pontos = pontos + 1
+    print("resposta correta\n")
+else:
+    print("resposta incorreta\n")
+
+
+print("20) Onde está o Cristo Redentor?\n")
+print("a) Brasília")
+print("b) São Paulo")
+print("c) Rio de Janeiro")
+print("d) Belo Horizonte")
+resposta = input("Resposta: ")
+if resposta == "c":
+    pontos = pontos + 1
+    print("resposta correta\n")
+else:
+    print("resposta incorreta\n")
+
+print()
+print("Você acertou", pontos, "de 20 perguntas.")
